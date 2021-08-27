@@ -4,8 +4,8 @@ import 'dart:io';
 
 void main(List<String> arguments) {
   print('informe seu nome:');
-  //Aqui estava ReadLine... com R maiúsculo...
-  var nome = stdin.readLineSync(); //Troquei String por var
+
+  var nome = stdin.readLineSync();
 
   print('informe sua idade: ');
   var entradaidade = stdin.readLineSync();
