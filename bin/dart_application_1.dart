@@ -23,6 +23,6 @@ void main(List<String> arguments) {
   if (altura < 1.60) {
     print('Você não pode ir na montanha russa do parque!');
   } else {
-    print('Você pode ir na montanha russa do parque');
+    print('Você pode ir na montanha russa do parque!');
   }
 }
